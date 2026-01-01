@@ -1,0 +1,10 @@
+name: permission_handler_windows
+description: Mock plugin to bypass build error
+version: 0.2.1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+flutter:
+  plugin:
+    platforms:
+      windows:
+        pluginClass: PermissionHandlerWindowsPlugin

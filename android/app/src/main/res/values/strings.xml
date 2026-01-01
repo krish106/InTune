@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InTune</string>
+    <string name="accessibility_service_label">VelocityLink Remote Control</string>
+    <string name="accessibility_service_description">
+        Allows your Windows PC to control this device remotely. 
+        VelocityLink uses this permission to perform taps and swipes 
+        when you interact with the screen mirror on your computer.
+        
+        This is required for the "Control Android from PC" feature.
+    </string>
+</resources>
