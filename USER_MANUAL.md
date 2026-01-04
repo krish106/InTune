@@ -169,10 +169,10 @@
 
 ---
 
-## 📞 Support
+##  Support
 
 For issues or feedback, contact the developer.
-
+krishp6777@gmail.com
 ---
 
 **Version:** 1.0.0  
