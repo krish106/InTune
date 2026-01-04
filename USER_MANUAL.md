@@ -172,6 +172,7 @@
 ##  Support
 
 For issues or feedback, contact the developer.
+
 krishp6777@gmail.com
 ---
 
