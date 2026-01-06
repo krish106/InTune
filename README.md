@@ -98,7 +98,7 @@ Built with Flutter, InTune delivers a native experience on both platforms with a
 
 ### 💻 Windows
 
-1. Download **[InTune_Setup_v1.0.exe](./installers/InTune_Setup_v1.0.exe)** from the installers folder
+1. Download **[InTune_Setup_v1.0.exe](./releases/InTune_Setup_v1.0.exe)** from the releases folder
 2. Run the installer and follow the setup wizard
 3. **Allow through Windows Firewall** when prompted (required for connectivity)
 4. The app will start automatically and appear in the system tray
