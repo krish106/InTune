@@ -13,7 +13,8 @@
   <a href="#-installation">Installation</a> •
   <a href="#-quick-start">Quick Start</a> •
   <a href="#-user-guide">User Guide</a> •
-  <a href="#-troubleshooting">Troubleshooting</a>
+  <a href="#-troubleshooting">Troubleshooting</a> •
+  <a href="#-community--feedback">Community</a>
 </p>
 
 <p align="center">
@@ -314,6 +315,34 @@ flutter build apk --release
 # Build for Windows
 flutter build windows --release
 ```
+
+---
+
+## 💬 Community & Feedback
+
+We'd love to hear from you! InTune is built for the community, and your feedback helps make it better.
+
+### 📢 Share Your Experience
+
+Have you tried InTune? We'd love to hear your thoughts!
+
+| How to Share | Link |
+|--------------|------|
+| ⭐ **Star the repo** | Show your support by starring this repository! |
+| 💬 **GitHub Discussions** | [Share reviews, ask questions, suggest features](https://github.com/krish106/InTune/discussions) |
+| 🐛 **Report Issues** | [Report bugs or request features](https://github.com/krish106/InTune/issues) |
+
+### 🌟 User Reviews
+
+> *"Fast, simple, and just works! Finally a file transfer app that doesn't need internet."*  
+> — Share your review in [Discussions](https://github.com/krish106/InTune/discussions/categories/reviews)!
+
+### 🤝 How to Contribute
+
+1. **Leave a Review** - Share your experience in [GitHub Discussions](https://github.com/krish106/InTune/discussions)
+2. **Report Bugs** - Found an issue? [Report it here](https://github.com/krish106/InTune/issues/new?template=bug_report.md)
+3. **Request Features** - Have an idea? [Share it here](https://github.com/krish106/InTune/issues/new?template=feature_request.md)
+4. **Spread the Word** - Share InTune with friends who might find it useful!
 
 ---
 
